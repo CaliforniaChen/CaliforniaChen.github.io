@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Codes"
-    url: /talks/    
+    url: /talks/
 
   - title: "Datasets"
-    url: /teaching/    
+    url: /teaching/ 
     
   - title: "Linkages"
     url: /portfolio/
