@@ -11,10 +11,10 @@ title                    : "Homepage of Jiazhou Chen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://californiachen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   : /images/me3.png # filename of teaser fallback teaser image placed in /images/, .e.g. "me.png"
+teaser                   : "/images/me.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "me.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -56,12 +56,12 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
+#twitter:
+#  username               : &twitter
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -83,11 +83,11 @@ author:
   name             : "Dr.Jiazhou Chen"
   avatar           : "me3.png"
   bio              : "Your biography"
-  location         : "Zhejiang Univesity of Technology"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "cjz_AT_zjut.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "californiachen"
   google_plus      :
   keybase          :
   instagram        :

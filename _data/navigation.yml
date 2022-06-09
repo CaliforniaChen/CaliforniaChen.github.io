@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Codes & Datasets"
+  - title: "Codes"
     url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Datasets"
+    url: /teaching/    
     
 # - title: "Portfolio"
 #    url: /portfolio/
