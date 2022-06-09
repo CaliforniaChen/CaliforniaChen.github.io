@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CCC"
-    url: /codes/    
+  - title: "Codes"
+    url: /talks/    
 
   - title: "Datasets"
-    url: /datasets/    
+    url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Linkages"
     url: /portfolio/
         
 #  - title: "Blog Posts"
@@ -18,5 +18,5 @@ main:
 #  - title: "CV"
 #    url: /cv/
     
-  - title: "Linkages"
-    url: /linkages/
+#  - title: "Linkages"
+#    url: /linkages/
