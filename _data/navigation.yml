@@ -9,8 +9,8 @@ main:
   - title: "Datasets"
     url: /datasets/    
     
-# - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
