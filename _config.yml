@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiazhou Chen"
+  name             : "    Jiazhou Chen"
   avatar           : "me.png"
-  bio              : "/images/me.png" #"Assicate Professor"
+  bio              : "      陈佳舟"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University of Techology"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

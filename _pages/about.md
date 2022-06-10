@@ -10,13 +10,12 @@ redirect_from:
 
 - I am an Asistant Professor in the [School of Computer Science](http://www.cs.zjut.edu.cn/html/index.html) of [Zhejiang University of Technology](http://www.zjut.edu.cn/) since 2013. 
 
-- Before that, I received my Ph.D.s from manao team in INRIA Bordeaux Sud-Ouest (Bordeaux University I) in France under the guidance of Xaiver Granier and Pascal Barla, and the State Key Lab. of CAD&CG (Zhejiang University) in China under the guidance of Qunsheng Peng.
+- Before that, I received my Ph.D.s from [manao](http://manao.inria.fr/) team in INRIA Bordeaux Sud-Ouest ([Université de Bordeaux](http://www.u-bordeaux.fr/)) in France under the guidance of [Xaiver Granier](http://xgranier.free.fr/) and [Pascal Barla](https://www.labri.fr/perso/barla/blog/), and the [State Key Lab. of CAD&CG](http://www.cad.zju.edu.cn/) ([Zhejiang University](https://www.zju.edu.cn/)) in China under the guidance of [Qunsheng Peng](http://www.cad.zju.edu.cn/home/peng/).
 
 Research interests:
 ======
--	Computer Graphics (CG) and digital protection for cultural heritage (DPCH). I am doing researches in CG since I was a master student, and proposed many novel methods and solutions for CG, and recently very interested in promote these methods to DPCH, which is a very promising direction and earns a lot of attentions from both government and the people.
-
--	Visual Reality (VR) and Augmented Reality (AR). I am working on this domain more than 10 years, and published high quality papers for visualization of hidden objects in AR, obtained adequate funding to continue my research on them, and established long-term collaboration with industrial companies (like Alibaba company in China) and international research institution (like INRIA in France).
+- Computer graphics (3D modeling and segmentation).
+- Visual computing and visualization for cultural heritage.
 
 News:
 ======
