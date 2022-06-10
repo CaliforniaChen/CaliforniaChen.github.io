@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Asistant Professor in the School of Computer Science of Zhejiang University of Technology. 
+- I am an Asistant Professor in the [School of Computer Science](http://www.cs.zjut.edu.cn/html/index.html) of [Zhejiang University of Technology](http://www.zjut.edu.cn/) since 2013. 
 
-Before that, I received my joint Ph.D. between Bordeaux University (INRIA Bordeaux Sud-Ouest) in France and Zhejiang University (State Key Lab. of CAD&CG) in China, under the guidance of Qunsheng Peng, Xaiver Granier and Pascal Barla.
+- Before that, I received my Ph.D.s from manao team in INRIA Bordeaux Sud-Ouest (Bordeaux University I) in France under the guidance of Xaiver Granier and Pascal Barla, and the State Key Lab. of CAD&CG (Zhejiang University) in China under the guidance of Qunsheng Peng.
 
 Research interests:
 ======
@@ -20,5 +20,5 @@ Research interests:
 
 News:
 ======
-2022.05: our work "3D Instance Segmentation for MVS Buildings" has been accepted by IEEE Transactions on Geoscience and Remote Sensing.
+- 2022.05: our work "3D Instance Segmentation for MVS Buildings" has been accepted by IEEE Transactions on Geoscience and Remote Sensing.
 
