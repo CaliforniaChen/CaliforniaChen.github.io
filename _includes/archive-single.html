@@ -43,7 +43,7 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}   
       <!-- citation and icon code -->
-	 <p  style="line-height: 5px;">
+	 <p>
       {% if post.citation %}
         {{ post.citation }}
       {% endif %}
@@ -90,6 +90,6 @@
         </p>
       </p>
     {% endif %}
-    
+  <hr>  
   </article>
 </div>
