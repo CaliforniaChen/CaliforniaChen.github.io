@@ -53,16 +53,17 @@
       {% endif %}
       
       <!-- citation and icon code -->
-	 <p>
+	 <p  style="line-height: 10px;">
       {% if post.citation %}
         {{ post.citation }}
       {% endif %}
-      </p>
+      <br>
 	 <p>
       {% if post.venue %}
         {{ post.venue }}
       {% endif %}
-      </p>      
+      </p> 
+	  <P>	 
       {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
