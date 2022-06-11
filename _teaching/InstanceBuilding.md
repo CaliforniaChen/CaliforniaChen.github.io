@@ -19,12 +19,12 @@ This dataset contains building instance annotation for both 3D urban scenes and 
 We annotated 608 drone images for roofs, which are divided into 2 groups, 524 images for training and 84 images for testing.
 
 <div align="center">
-<img src='files/DatasetInstanceBuilding/185-2400-5600-OR.jpg' width="48%" />
-<img src='files/DatasetInstanceBuilding/187-4000-5600-OR.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/185-2400-5600-OR.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/187-4000-5600-OR.jpg' width="48%" />
 </div>
 <div align="center">
-<img src='files/DatasetInstanceBuilding/s143.jpg' width="48%" />
-<img src='files/DatasetInstanceBuilding/C_C281.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/s143.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/C_C281.jpg' width="48%" />
 </div>
 
 3D dataset
