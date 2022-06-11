@@ -34,7 +34,7 @@ We annotated 4 scenes for both roofs and entir buildings.
 <div align="center">
 <img src='../files/DatasetInstanceBuilding/statistics.png' width="70%" />
 </div>
-* Scene1:
+* Scene1 (roofs on the left, buildings on the right):
 <div align="center">
 <img src='../files/DatasetInstanceBuilding/s1-roof.jpg' width="48%" />
 <img src='../files/DatasetInstanceBuilding/s1-building.jpg' width="48%" />
@@ -57,8 +57,6 @@ We annotated 4 scenes for both roofs and entir buildings.
 <img src='../files/DatasetInstanceBuilding/s4-roof.jpg' width="48%" />
 <img src='../files/DatasetInstanceBuilding/s4-building.jpg' width="48%" />
 </div>
-
-                       Roofs                 Buildings
 
 Download:
 ======
