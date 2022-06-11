@@ -58,6 +58,8 @@ We annotated 4 scenes for both roofs and entir buildings.
 <img src='../files/DatasetInstanceBuilding/s4-building.jpg' width="48%" />
 </div>
 
+                       Roofs                 Buildings
+
 Download:
 ======
 Google Driver:  
