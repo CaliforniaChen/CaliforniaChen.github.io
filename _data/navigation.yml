@@ -9,8 +9,8 @@ main:
   - title: "Datasets"
     url: /datasets/ 
     
-  - title: "Linkages"
-    url: /linkages/
+  - title: "Misc"
+    url: /misc/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
