@@ -42,14 +42,14 @@ We annotated 4 scenes for both roofs and entir buildings.
 
 * Scene2:
 <div align="center">
-<img src='files/DatasetInstanceBuilding/s2-roof.jpg' width="48%" />
-<img src='files/DatasetInstanceBuilding/s2-building.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/s2-roof.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/s2-building.jpg' width="48%" />
 </div>
 
 * Scene3:
 <div align="center">
-<img src='files/DatasetInstanceBuilding/s3-roof.jpg' width="48%" />
-<img src='files/DatasetInstanceBuilding/s3-building.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/s3-roof.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/s3-building.jpg' width="48%" />
 </div>
 
 * Scene4:
