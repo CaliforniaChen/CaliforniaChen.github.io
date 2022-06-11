@@ -32,12 +32,12 @@ We annotated 608 drone images for roofs, which are divided into 2 groups, 524 im
 We annotated 4 scenes for both roofs and entir buildings.
 
 <div align="center">
-<img src='files/DatasetInstanceBuilding/statistics.png' width="70%" />
+<img src='../files/DatasetInstanceBuilding/statistics.png' width="70%" />
 </div>
 * Scene1:
 <div align="center">
-<img src='files/DatasetInstanceBuilding/s1-roof.jpg' width="48%" />
-<img src='files/DatasetInstanceBuilding/s1-building.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/s1-roof.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/s1-building.jpg' width="48%" />
 </div>
 
 * Scene2:
@@ -54,8 +54,8 @@ We annotated 4 scenes for both roofs and entir buildings.
 
 * Scene4:
 <div align="center">
-<img src='files/DatasetInstanceBuilding/s4-roof.jpg' width="48%" />
-<img src='files/DatasetInstanceBuilding/s4-building.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/s4-roof.jpg' width="48%" />
+<img src='../files/DatasetInstanceBuilding/s4-building.jpg' width="48%" />
 </div>
 
 Download:
