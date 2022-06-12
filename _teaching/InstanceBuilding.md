@@ -1,7 +1,7 @@
 ---
 title: "InstanceBuilding Dataset"
 collection: teaching
-excerpt: "A benchmark dataset for instance segmentation of 3D buildings in urban scenes, which consists of both roof instances in RGBH images and roof/building instances in 3D mesh models.<br/><img src='/../files/DatasetInstanceBuilding/teaser.jpg'>"
+excerpt: "A benchmark dataset, called **InstanceBuilding**, for instance segmentation of 3D buildings in urban scenes, which consists of both roof instances in RGBH images and roof/building instances in 3D mesh models.<br/><img src='/../files/DatasetInstanceBuilding/teaser.jpg'>"
 type: "Released with IEEE TGRS paper"
 permalink: /datasets/InstanceBuilding
 venue: "Free for non-commercial use"
@@ -21,12 +21,13 @@ We annotated 608 drone images with high resolutions for roofs. They are selected
 <img src='../files/DatasetInstanceBuilding/185-2400-5600-OR.jpg' width="48%" />
 <img src='../files/DatasetInstanceBuilding/187-4000-5600-OR.jpg' width="48%" />
 </div>
-
+<br>
 <div align="center">
 <img src='../files/DatasetInstanceBuilding/s143.jpg' width="48%" />
 <img src='../files/DatasetInstanceBuilding/C_C281.jpg' width="48%" />
-</div>
 Figure 1: Four examples of 2D annotated images.
+</div>
+
 
 3D annotation
 ======
