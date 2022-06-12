@@ -1,7 +1,7 @@
 ---
 title: "InstanceBuilding Dataset"
 collection: teaching
-excerpt: "A benchmark dataset, called **InstanceBuilding**, for instance segmentation of 3D buildings in urban scenes, which consists of both roof instances in RGBH images and roof/building instances in 3D mesh models.<br/><img src='/../files/DatasetInstanceBuilding/teaser.jpg'  alt="">"
+excerpt: "A benchmark dataset, called **InstanceBuilding**, for instance segmentation of 3D buildings in urban scenes, which consists of both roof instances in RGBH images and roof/building instances in 3D mesh models.<br/><img src='/../files/DatasetInstanceBuilding/teaser.jpg'>"
 type: "Released with IEEE TGRS paper"
 permalink: /datasets/InstanceBuilding
 venue: "Free for non-commercial use"
