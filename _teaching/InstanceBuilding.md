@@ -68,7 +68,7 @@ Download:
 ======
 Google Driver: coming soon
 
-Baidu Cloud: coming soon
+Baidu Cloud: https://pan.baidu.com/s/1zvR7C_ZfcHiRJTJAKzlHFQ (ka29)
 
 Citation:
 ======
