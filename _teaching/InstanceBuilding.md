@@ -18,7 +18,7 @@ The dataset, called **InstanceBuilding**, contains building instance annotation 
 We annotated 608 drone images with high resolutions for roofs. They are selected from around 20 thousand drone images acquired in more than 10 different cities by a consumer DJI drone Phantom 4 Pro with different cameras and ﬂight altitudes. There are about 16 thousand buildings in all these images, and their roofs are all manually annotated for the training of our 2D roof instance segmentation neural network. A height map is generated for each UAV image, it is used to facilitate the 2D annotation, and improve the learning-based roof instance segmentation as well.
 
 <div align="center">
-<img src='../files/DatasetInstanceBuilding/2Dannotation2.jpg' width="80%" />
+<img src='../files/DatasetInstanceBuilding/2Dannotation2.jpg' width="80%" /> <br>
 Figure 1: Two examples of 2D annoatation for building instances for UAV RGB images and height maps.
 </div>
 
