@@ -1,7 +1,7 @@
 ---
 title: "InstanceBuilding Dataset"
 collection: teaching
-excerpt: "A benchmark dataset for instance segmentation of 3D buildings in urban scenes, which consists of both roof instances in RGBH images and roof/building instances in 3D mesh models.<br/><img src='/../files/DatasetInstanceBuilding/teaser.jpg'>"
+excerpt: "A benchmark dataset for instance segmentation of 3D buildings in urban scenes, which consists of both roof instances in RGBH images and roof/building instances in 3D mesh models.<br/><img src='../files/DatasetInstanceBuilding/teaser.jpg'>"
 type: "Publishes with IEEE TGRS paper"
 permalink: /datasets/InstanceBuilding
 venue: "Free for non-commercial use"
@@ -11,7 +11,7 @@ location: #"City, Country"
 
 Introducation
 ======
-This dataset contains building instance annotation for both 3D urban scenes and UAV images simultaneously, which makes it unique. About 16 thousand roofs in UAV images are annotated, and 892 roofs/buildings in 3D urban scenes are annotated. Comparisons with existing datasets can be found in our [IEEE TGRS paper](https://californiachen.github.io/publications/2022TGRS/).
+The dataset, called **InstanceBuilding**, contains building instance annotation for both 3D urban scenes and UAV images simultaneously, which makes it unique. About 16 thousand roofs in UAV images are annotated, and 892 roofs/buildings in 3D urban scenes are annotated. Comparisons with existing datasets can be found in our [IEEE TGRS paper](https://californiachen.github.io/publications/2022TGRS/).
 
 2D annotation
 ======
