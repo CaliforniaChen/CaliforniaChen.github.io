@@ -55,6 +55,15 @@ We annotated 4 3D scenes for both roofs and entir buildings,  which are reconstr
 <img src='../files/DatasetInstanceBuilding/s4-building.jpg' width="48%" />
 </div>
 
+Potential uses:
+=====
+- Roof instance segmentation for UAV images (experimented in our IEEE TGRS work);
+- 3D building instance segmetation for 3D urban scenes (experimented in our IEEE TGRS work);
+- 3D building simplification for for 3D urban scenes;
+- Height estimation for UAV images or remote-sensing images;
+- Reconstruction of 3D ubran scenes;
+- ...
+
 Download:
 ======
 Google Driver:  
