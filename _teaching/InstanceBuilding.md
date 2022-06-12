@@ -25,7 +25,7 @@ Figure 1: Four examples of 2D annotated images.
 
 3D annotation
 ======
-We annotated 4 3D scenes for both roofs and entir buildings,  which are reconstructed using Bentley Acute3D ContextCapture from thousands of UAV images. To facilitate the 3D annotation, we have developed a simple but efficient brush-based annotation tool. Similar to most 2D annotation tools which semi-automatically extract pixels of an object by marking the closed boundary polygon of the object, our tool allows a user to segment a 3D building by casually drawing strokes on the building boundaries. 
+We annotated 4 3D scenes for both roofs and entir buildings,  which are reconstructed using Bentley Acute3D ContextCapture from thousands of UAV images. Two have textures, while the other two do not have. To facilitate the 3D annotation, we have developed a simple but efficient brush-based annotation tool. Similar to most 2D annotation tools which semi-automatically extract pixels of an object by marking the closed boundary polygon of the object, our tool allows a user to segment a 3D building by casually drawing strokes on the building boundaries. 
 
 
 <div align="center">
