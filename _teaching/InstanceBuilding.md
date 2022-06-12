@@ -11,14 +11,14 @@ location: #"City, Country"
 
 Introducation
 ======
-The dataset, called **InstanceBuilding**, contains building instance annotation for both 3D urban scenes and UAV images simultaneously, which makes it unique. About 16 thousand roofs in UAV images are annotated, and 892 roofs/buildings in 3D urban scenes are annotated. Among these 892 buildings, more than 600 buildings are attached to others. In such crowded urban scenes, instance segmentation has a more signiﬁcant advantage over semantic segmentation in various applications. Comparisons with existing datasets can be found in our [IEEE TGRS paper](https://californiachen.github.io/publications/2022TGRS/).
+The dataset, called **InstanceBuilding**, contains building instance annotation for both 3D urban scenes and UAV images simultaneously, which makes it unique. We annotated 16 thousand roofs for 608 UAV images, all of which are enhanced with corresponding height maps. We also annotated 892 roofs/buildings for 3D urban scenes, among which more than 600 buildings are attached to others. In such crowded urban scenes, instance segmentation has a more signiﬁcant advantage over semantic segmentation in various applications. Comparisons with existing datasets can be found in our [IEEE TGRS paper](https://californiachen.github.io/publications/2022TGRS/).
 
 2D annotation
 ======
-We annotated 608 drone images with high resolutions for roofs. They are selected from around 20 thousand drone images acquired in more than 10 different cities by a consumer DJI drone Phantom 4 Pro with different cameras and ﬂight altitudes. There are about 16 thousand buildings in all these images, and their roofs are all manually annotated for the training of our 2D roof instance segmentation neural network.
+We annotated 608 drone images with high resolutions for roofs. They are selected from around 20 thousand drone images acquired in more than 10 different cities by a consumer DJI drone Phantom 4 Pro with different cameras and ﬂight altitudes. There are about 16 thousand buildings in all these images, and their roofs are all manually annotated for the training of our 2D roof instance segmentation neural network. A height map is generated for each UAV image, it is used to facilitate the 2D annotation, and improve the learning-based roof instance segmentation as well.
 
 <div align="center">
-<img src='../files/DatasetInstanceBuilding/2Dannotation.jpg' width="80%" />
+<img src='../files/DatasetInstanceBuilding/2Dannotation.jpg' width="80%" /> <br>
 Figure 1: Four examples of 2D annotated images.
 </div>
 
