@@ -1,8 +1,8 @@
 ---
 title: "InstanceBuilding Dataset"
 collection: teaching
-excerpt: "A benchmark dataset for instance segmentation of 3D buildings in urban scenes, which consists of both roof instances in RGBH images and roof/building instances in 3D mesh models.<br/><img src='../files/DatasetInstanceBuilding/teaser.jpg'>"
-type: "Publishes with IEEE TGRS paper"
+excerpt: "A benchmark dataset for instance segmentation of 3D buildings in urban scenes, which consists of both roof instances in RGBH images and roof/building instances in 3D mesh models.<br/><img src='/../files/DatasetInstanceBuilding/teaser.jpg'>"
+type: "Released with IEEE TGRS paper"
 permalink: /datasets/InstanceBuilding
 venue: "Free for non-commercial use"
 date: 2022-01-01
@@ -11,7 +11,7 @@ location: #"City, Country"
 
 Introducation
 ======
-The dataset, called **InstanceBuilding**, contains building instance annotation for both 3D urban scenes and UAV images simultaneously, which makes it unique. About 16 thousand roofs in UAV images are annotated, and 892 roofs/buildings in 3D urban scenes are annotated. Comparisons with existing datasets can be found in our [IEEE TGRS paper](https://californiachen.github.io/publications/2022TGRS/).
+The dataset, called **InstanceBuilding**, contains building instance annotation for both 3D urban scenes and UAV images simultaneously, which makes it unique. About 16 thousand roofs in UAV images are annotated, and 892 roofs/buildings in 3D urban scenes are annotated. Among these 892 buildings, more than 600 buildings are attached to others. In such crowded urban scenes, instance segmentation has a more signiﬁcant advantage over semantic segmentation in various applications. Comparisons with existing datasets can be found in our [IEEE TGRS paper](https://californiachen.github.io/publications/2022TGRS/).
 
 2D annotation
 ======
@@ -21,17 +21,16 @@ We annotated 608 drone images with high resolutions for roofs. They are selected
 <img src='../files/DatasetInstanceBuilding/185-2400-5600-OR.jpg' width="48%" />
 <img src='../files/DatasetInstanceBuilding/187-4000-5600-OR.jpg' width="48%" />
 </div>
+
 <div align="center">
 <img src='../files/DatasetInstanceBuilding/s143.jpg' width="48%" />
 <img src='../files/DatasetInstanceBuilding/C_C281.jpg' width="48%" />
 </div>
-
+Figure 1: Four examples of 2D annotated images.
 
 3D annotation
 ======
-We annotated 4 3D scenes for both roofs and entir buildings,  which are reconstructed using Bentley Acute3D ContextCapture from thousands of UAV images. Note that the town is quite crowded, thus about 2/3 buildings are attached to others. In such crowded urban scenes, instance segmentation has a more signiﬁcant advantage over semantic segmentation in various applications.
-
-To facilitate the 3D annotation, we have developed a simple but efficient brush-based annotation tool. Similar to most 2D annotation tools which semi-automatically extract pixels of an object by marking the closed boundary polygon of the object, our tool allows a user to segment a 3D building by casually drawing strokes on the building boundaries. 
+We annotated 4 3D scenes for both roofs and entir buildings,  which are reconstructed using Bentley Acute3D ContextCapture from thousands of UAV images. To facilitate the 3D annotation, we have developed a simple but efficient brush-based annotation tool. Similar to most 2D annotation tools which semi-automatically extract pixels of an object by marking the closed boundary polygon of the object, our tool allows a user to segment a 3D building by casually drawing strokes on the building boundaries. 
 
 
 <div align="center">
