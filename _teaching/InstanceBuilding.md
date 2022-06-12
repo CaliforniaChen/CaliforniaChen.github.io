@@ -66,9 +66,10 @@ Potential uses:
 
 Download:
 ======
-Google Driver:  
+Google Driver: coming soon
 
-Baidu Cloud: https://pan.baidu.com/s/161n4MbaZWDfhMvMhcPedlw
+Baidu Cloud: coming soon
 
 Citation:
 ======
+coming soon
