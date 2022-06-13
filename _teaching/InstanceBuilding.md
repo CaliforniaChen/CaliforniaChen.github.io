@@ -66,7 +66,7 @@ Potential uses:
 
 Download:
 ======
-Google Driver: coming soon
+Google Driver: https://drive.google.com/drive/folders/1cxsq5FT8JkqGv6EFp3zjNw1HqNLjtAOo
 
 Baidu Cloud: https://pan.baidu.com/s/1zvR7C_ZfcHiRJTJAKzlHFQ (ka29)
 
