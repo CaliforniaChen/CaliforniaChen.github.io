@@ -72,4 +72,4 @@ Baidu Cloud: [https://pan.baidu.com/s/1zvR7C_ZfcHiRJTJAKzlHFQ](https://pan.baidu
 
 Citation:
 ======
-coming soon
+Jiazhou Chen, Yanghui Xu, Shufang Lu, Ronghua Liang*, Liangliang Nan. &quot; 3D Instance Segmentation of MVS Buildings.&quot; <i>IEEE Transactions on Geoscience and Remote Sensing</i>. 2022, doi: 10.1109/TGRS.2022.3183567. <a href="{{ '../files/2022TGRS/ref.txt' }}"> {{'BibTex'}}</a>
