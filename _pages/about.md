@@ -19,5 +19,7 @@ Research interests:
 
 News:
 ======
-- 2022.05: our work "3D Instance Segmentation for MVS Buildings" has been accepted by IEEE Transactions on Geoscience and Remote Sensing.
+- 2022.05: our work "[3D Instance Segmentation for MVS Buildings](https://californiachen.github.io/publications/2022TGRS/)" has been accepted by IEEE Transactions on Geoscience and Remote Sensing with a new [dataset](https://californiachen.github.io/datasets/).
+
+- 2022.03: our survey "[Surveys on Line Drawings Simplification for Chinese cultural computing](https://californiachen.github.io/publications/2022CUPT/)" has been accepted by The Journal of China Universities of Posts and Telecommunications.
 
