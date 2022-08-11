@@ -5,7 +5,7 @@ permalink: #/publication/FAFNet
 excerpt: '**Jiazhou Chen**, Yangfan Zhan, Yanghui Xu, Xiang Pan*'
 date: 2022-01-01
 venue: 'IET Image Processing'
-#paperurl: '/files/2022TGRS/paper.pdf'
+paperurl: '/files/2022FAFNET/paper.pdf'
 #doi: 'https://ieeexplore.ieee.org/document/9797751'
 ---
 <br/><img src='/files/2022FAFNET/pipeline.png' alt=""><br>
