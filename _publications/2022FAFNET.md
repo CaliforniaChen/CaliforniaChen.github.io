@@ -4,7 +4,7 @@ collection: publications
 permalink: #/publication/FAFNet
 excerpt: '**Jiazhou Chen**, Yangfan Zhan, Yanghui Xu, Xiang Pan*'
 date: 2022-08-01
-venue: 'IET Image Processing (To appear)'
+venue: 'IET Image Processing'
 paperurl: '/files/2022FAFNET/paper.pdf'
 #doi: 'https://ieeexplore.ieee.org/document/9797751'
 ---
