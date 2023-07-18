@@ -19,6 +19,8 @@ Research interests:
 
 News:
 ======
+- 2023.07：our work "[Poetry4painting: Diversified poetry generation for large-size ancient paintings based on data augmentation](https://californiachen.github.io/publications/2023CG/)" has been accepted by Computer & Graphics.
+
 - 2022.08：our work "[FAFNet: Fully-Aligned Fusion Network for RGBD Semantic Segmentation based on Hierarchical Semantic Flows](https://californiachen.github.io/publications/2022FAFNET/)" has been accepted by IET Image Processing.
 
 - 2022.05: our work "[3D Instance Segmentation for MVS Buildings](https://californiachen.github.io/publications/2022TGRS/)" has been accepted by IEEE Transactions on Geoscience and Remote Sensing with a new [dataset](https://californiachen.github.io/datasets/).
