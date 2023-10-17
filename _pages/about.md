@@ -19,7 +19,9 @@ Research interests:
 
 News:
 ======
-- 2023.07：our work "[Poetry4painting: Diversified poetry generation for large-size ancient paintings based on data augmentation](https://californiachen.github.io/publications/2023CG/)" has been accepted by Computer & Graphics.
+- 2023.10：our work "[Efficient Interpolation of Rough Line Drawings](https://californiachen.github.io/publications/2023CGF/)" has been accepted by Computer Graphics Forum, and won the **Best Paper Award** in PG 2023 (https://pg2023.org/awards).
+
+- 2023.07：our work "[Poetry4painting: Diversified poetry generation for large-size ancient paintings based on data augmentation](https://californiachen.github.io/publications/2023CG/)" has been accepted by Computer & Graphics, and won the **Best Paper Honorable Mention Award** in CAD/Graphics 2023.
 
 - 2022.08：our work "[FAFNet: Fully-Aligned Fusion Network for RGBD Semantic Segmentation based on Hierarchical Semantic Flows](https://californiachen.github.io/publications/2022FAFNET/)" has been accepted by IET Image Processing.
 
