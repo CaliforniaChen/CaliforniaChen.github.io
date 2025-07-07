@@ -19,6 +19,12 @@ Research interests:
 
 News:
 ======
+- 2025.07: our work "镜轴古今——时空之镜鉴，京华之乐章" has won the **First Prize** in the Humanities Visualization Creativity Competition of [ChinaVis 2025] (https://chinavis.org/2025/zh/challenge).
+
+- 2025.06: our work "[Transformer-based Tooth Alignment Prediction with Occlusion and Collision Constraints](https://californiachen.github.io/publications/2025ICCV/)" has been accepted by [ICCV 2025] (https://iccv.thecvf.com/Conferences/2025/).
+
+- 2025.06: our work "[LSN-VA: A Visual Analysis System for Ancient Chinese Literati Social Network](https://californiachen.github.io/publications/2025JOV/)" has been accepted by [ChinaVis 2025] (https://chinavis.org/2025/zh/).
+
 - 2023.10：our work "[Efficient Interpolation of Rough Line Drawings](https://californiachen.github.io/publications/2023CGF/)" has been accepted by Computer Graphics Forum, and won the **Best Paper Award** in [PG 2023] (https://pg2023.org/awards/).
 
 - 2023.07：our work "[Poetry4painting: Diversified poetry generation for large-size ancient paintings based on data augmentation](https://californiachen.github.io/publications/2023CG/)" has been accepted by Computer & Graphics, and won the **Best Paper Honorable Mention Award** in CAD/Graphics 2023.
