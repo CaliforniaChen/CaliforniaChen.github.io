@@ -21,7 +21,7 @@ News:
 ======
 - 2025.07: our work "镜轴古今——时空之镜鉴，京华之乐章" has won the **First Prize** in the Humanities Visualization Creativity Competition of [ChinaVis 2025](https://chinavis.org/2025/zh/challenge).
 
-- 2025.06: our work "[Transformer-based Tooth Alignment Prediction with Occlusion and Collision Constraints](https://californiachen.github.io/publications/2025ICCV/)" has been accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025/) with a new dataset.
+- 2025.06: our work "[Transformer-based Tooth Alignment Prediction with Occlusion and Collision Constraints](https://californiachen.github.io/publications/2025ICCV/)" has been accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025/) with a new [dataset: TeethAlign3D](https://californiachen.github.io/datasets/).
 
 - 2025.06: our work "[LSN-VA: A Visual Analysis System for Ancient Chinese Literati Social Network](https://californiachen.github.io/publications/2025JOV/)" has been accepted by [ChinaVis 2025](https://chinavis.org/2025/zh/).
 
