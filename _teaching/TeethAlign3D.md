@@ -19,9 +19,9 @@ Dataset Structure
 ======
 TeethAlign3D/
 
-├── data_738/
+|—— data_738/
 
-├── data_739/
+|—— data_739/
 
 ├── ...
 
