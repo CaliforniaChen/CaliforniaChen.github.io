@@ -20,13 +20,19 @@ Research interests:
 News:
 ======
 
+- 2026.07: our work "TIBR4D: Tracing-Guided Iterative Boundary Refinement for Efficient 4D Gaussian Segmentation" has been accepted by [ACM Multimedia](https://2026.acmmm.org/) (CCF-A) 2026 conference. 
+
+- 2026.07: our work "HyperSketch: Controllable Video Sketching in a Style Hyperspace" has been accepted by [ACM Multimedia](https://2026.acmmm.org/) (CCF-A) 2026 conference. 
+
+- 2026.07: our co-work "TCFP-Sight: Ontology-Gated DAIE Reasoning for Auditable Appreciation of Traditional Chinese Figure Painting" has been accepted by [ACM Multimedia](https://2026.acmmm.org/) (CCF-A) 2026 conference. 
+
+- 2026.06: our work "LexiVA: An Evidence-Aware Visual Analytic System for Multi-Dimensional Chinese Lexical Evolution" has been accepted by [ChinaVis 2026](https://chinavis.org/2026/zh/) conference. 
+
 - 2026.03: our work "[Vector sketch animation generation with differentiable motion trajectories](https://californiachen.github.io/publications/2026EG/)" has been accepted by [EuroGraphics 2026](https://eg2026.github.io/). Here are the [project](https://xinjunzi.github.io/DMTSketchWeb/) and [codes](https://github.com/xinjunzi/DMTSketch).
 
+- 2026.01: co-work "[InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba.](https://ieeexplore.ieee.org/document/11264370)" has been accepted by IEEE TVCG (CCF-A).
 
-- 2026.01: co-work "[InterMamba: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba.](https://ieeexplore.ieee.org/document/11264370)" has been accepted by IEEE TVCG.
-
-
-- 2025.06: our work "[Transformer-based Tooth Alignment Prediction with Occlusion and Collision Constraints](https://californiachen.github.io/publications/2025ICCV/)" has been accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025/) with a new [dataset: TeethAlign3D](https://californiachen.github.io/datasets/TeethAlign3D).
+- 2025.06: our work "[Transformer-based Tooth Alignment Prediction with Occlusion and Collision Constraints](https://californiachen.github.io/publications/2025ICCV/)" has been accepted by [ICCV 2025](https://iccv.thecvf.com/Conferences/2025/) (CCF-A) with a new [dataset: TeethAlign3D](https://californiachen.github.io/datasets/TeethAlign3D).
 
 - 2025.06: our work "[LSN-VA: A Visual Analysis System for Ancient Chinese Literati Social Network](https://californiachen.github.io/publications/2025JOV/)" has been accepted by [ChinaVis 2025](https://chinavis.org/2025/zh/), and won the **Best Paper Honorable Mention Award**. 
 
